@@ -20,7 +20,7 @@ Sou estudante de Ciência da Computação (1º período) e programadora desde 20
 Você pode me encontrar por aqui:
 
 <dif>
-  <a href="mailton:fernanda.domin19@gmail.com?subject=Assunto do Email&body=Corpo da mensagem"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white="_blank"></a>
+  <a href="mailton:fernanda.domin19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-domingues-santos-0986a9314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </dif>
