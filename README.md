@@ -1,9 +1,11 @@
 ## 🙋🏽‍♀️Olá! Fernanda Domingues por aqui :)
-Sou estudante de Ciência da Computação (1º período) e programadora desde 2022. Tenho cursos certificados pela Alura. Busco oportunidades para crescer na área de TI e aplicar meus conhecimentos na prática.
+Sou estudante de Ciência da Computação (4º período) e programadora desde 2022. Tenho cursos certificados pela Alura. Busco oportunidades para crescer na área de TI e aplicar meus conhecimentos na prática.
 
 - 📑**Estudante** de Ciência da Computação pela [Universidade Positivo CS](https://www.up.edu.br/)
 - 💁**Aprovada** em Ciência da Computação na Universidade Estadual do Paraná - [Unicentro](https://www3.unicentro.br/)
 - 💟**Apaixonada** por tecnologia, fisíca e futebol
+- 🖥️**Colaboradora** da empresa Escotta Consulting - [Escotta](https://escotta.com/)
+- 🖥️**Trainee** SAP ABAP 
 - 🖥️**Habilidades técnicas:**
   <div style="display: inline_block"><br>
   <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
