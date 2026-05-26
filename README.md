@@ -1,5 +1,5 @@
 ## 🙋🏽‍♀️Olá! Fernanda Domingues por aqui :)
-Sou estudante de Ciência da Computação (4º período) e programadora desde 2022. Tenho cursos certificados pela Alura. Busco oportunidades para crescer na área de TI e aplicar meus conhecimentos na prática.
+Sou estudante de Ciência da Computação, atualmente no 4° período, pela Universidade Positivo. Com foco contínuo e aprimoramento técnico na área de tecnologia. Possuo certificações pela Alura e atuo como Trainee SAP ABAP na Escotta, adquirindo experiência em desenvolvimento, suporte e soluções no SAP
 
 - 📑**Estudante** de Ciência da Computação pela [Universidade Positivo CS](https://www.up.edu.br/)
 - 💁**Aprovada** em Ciência da Computação na Universidade Estadual do Paraná - [Unicentro](https://www3.unicentro.br/)
