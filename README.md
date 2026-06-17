@@ -1,12 +1,11 @@
 ## 🙋🏽‍♀️Olá! Fernanda Domingues por aqui :)
-Sou estudante de Ciência da Computação, atualmente no 4° período, pela Universidade Positivo. Com foco contínuo e aprimoramento técnico na área de tecnologia. Possuo certificações pela Alura e atuo como Trainee SAP ABAP na Escotta, adquirindo experiência em desenvolvimento, suporte e soluções no SAP
+Sou estudante de Ciência da Computação, atualmente no 4º período da Universidade Positivo. Tenho grande interesse pela área de tecnologia e estou sempre em busca de novos aprendizados e desafios para desenvolver minhas habilidades. Possuo certificações pela Alura e atuo como Trainee SAP ABAP na Escotta, adquirindo experiência em desenvolvimento, suporte e soluções SAP.
 
 - 📑**Estudante** de Ciência da Computação pela [Universidade Positivo CS](https://www.up.edu.br/)
 - 📑**Capacitação SAP ABAP**
 - 💁**Aprovada** em Ciência da Computação na Universidade Estadual do Paraná - [Unicentro](https://www3.unicentro.br/)
 - 💟**Apaixonada** por tecnologia, fisíca e futebol
-- 🖥️**Colaboradora** da empresa Escotta Consulting - [Escotta](https://escotta.com/)
-- 🖥️**Trainee** SAP ABAP 
+- 🖥️**Trainee** SAP ABAP na empresa Escotta Consulting - [Escotta](https://escotta.com/)
 - 🖥️**Habilidades técnicas:**
   <div style="display: inline_block"><br>
   <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
